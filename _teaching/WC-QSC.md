@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/WC-QSC
 venue: "Washington College, Economics Department"
-date: 2020-2023
+date: "2020-2023"
 location: "Maryland, USA"
 ---
 
