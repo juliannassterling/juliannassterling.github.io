@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Washington College Foreign Language Skills Center"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/WC-FLSC
+venue: "Washington College, Foreign Languages Department"
+date: 2020-2023
+location: "Maryland, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Tutor to the following courses:
+French (I-III)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
