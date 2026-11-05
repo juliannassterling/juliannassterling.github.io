@@ -2,7 +2,7 @@
 title: "Shifting Dynamics in Bank Funding of NBFIs: The Rise of Credit Lines"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/NBFI-SOGE
 venue: "2025 Society of Government Economists Annual Conference"
 date: 2025-04-04
 location: "American University; Washington, DC, USA"
