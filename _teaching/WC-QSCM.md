@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/WC-QSCM
 venue: "Washington College, Mathematics Department"
-date: 2021-2023
+date: "2021-2023"
 location: "Maryland, USA"
 ---
 
