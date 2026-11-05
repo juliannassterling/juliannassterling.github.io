@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/WC-FLSC
 venue: "Washington College, Foreign Languages Department"
-date: 2020-2023
+date: "2020-2023"
 location: "Maryland, USA"
 ---
 
